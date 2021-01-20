@@ -41,6 +41,17 @@ nav ul li{
   height: 480px;
   background-color: #309c77;
   float: left;
+  text-align: center;
+}
+
+img{
+  margin: 0;
+  padding-bottom: 20px;
+  border: 2px, solid, #fff;
+}
+
+.firstimg{
+  margin-top: 40px;
 }
 
 .lightgreen{
